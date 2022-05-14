@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/alxUI/boilerplate-alx/compare/v1.0.0...v1.0.1) (2022-05-14)
+
+
+### Bug Fixes
+
+* extension js to json ([c17f19c](https://github.com/alxUI/boilerplate-alx/commit/c17f19c1de14bd739b0bdf3a258f77eaed8868cf))
+
 # 1.0.0 (2022-05-14)
 
 
