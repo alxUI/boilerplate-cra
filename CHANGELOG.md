@@ -1,3 +1,15 @@
+# 1.0.0 (2022-05-14)
+
+
+### Bug Fixes
+
+* add use-local-storage dependency ([6672a1e](https://github.com/alxUI/boilerplate-alx/commit/6672a1ed6adfa20ae23d377cc4bbc2301bd32dad))
+
+
+### Features
+
+* commit initial ([5991166](https://github.com/alxUI/boilerplate-alx/commit/5991166b0f1c02c41e80a477e5af2baed9776bb2))
+
 ## [1.0.1](https://github.com/ialexanderbrito/origem/compare/v1.0.0...v1.0.1) (2022-05-03)
 
 
