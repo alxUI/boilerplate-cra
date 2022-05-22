@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/alxUI/boilerplate-alx/compare/v1.0.1...v1.0.2) (2022-05-22)
+
+
+### Bug Fixes
+
+* remove commitlint ([fa01885](https://github.com/alxUI/boilerplate-alx/commit/fa0188511e2084ca80a1914244990bed95070b1c))
+
 ## [1.0.1](https://github.com/alxUI/boilerplate-alx/compare/v1.0.0...v1.0.1) (2022-05-14)
 
 
