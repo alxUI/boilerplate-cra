@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/alxUI/boilerplate-alx/compare/v1.0.2...v1.1.0) (2022-05-24)
+
+
+### Bug Fixes
+
+* lint ([65b6987](https://github.com/alxUI/boilerplate-alx/commit/65b69875b463a21c18ea50a2770635625b5f3e3b))
+* remove config lint and prettier ([d59e63d](https://github.com/alxUI/boilerplate-alx/commit/d59e63dce37cd9883e5ce6ac7233ea7195d745cd))
+* update eslint config ([9732c17](https://github.com/alxUI/boilerplate-alx/commit/9732c175a2da6777c29fac63008f2c27b0df1933))
+* workflow ([005234d](https://github.com/alxUI/boilerplate-alx/commit/005234d08d447ceafe6a9d6dcf9da022b8a2ce04))
+
+
+### Features
+
+* add dependency alx/eslint-config ([4b04471](https://github.com/alxUI/boilerplate-alx/commit/4b04471195ec3cd864635d2dae4571556673bbe8))
+
 ## [1.0.2](https://github.com/alxUI/boilerplate-alx/compare/v1.0.1...v1.0.2) (2022-05-22)
 
 
