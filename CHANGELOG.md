@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/alxUI/boilerplate-alx/compare/v1.2.1...v1.3.0) (2022-05-25)
+
+
+### Bug Fixes
+
+* scripts ([4c195c6](https://github.com/alxUI/boilerplate-alx/commit/4c195c64b5b586cf787877b009cf5e5bd3857a49))
+
+
+### Features
+
+* add readme ([6fa4069](https://github.com/alxUI/boilerplate-alx/commit/6fa40690af0d254c280240af03193c367ccb1385))
+* add version nvm ([4391bb8](https://github.com/alxUI/boilerplate-alx/commit/4391bb8ce2cdeeeb836e1ec887ae87fd17cbbd7b))
+
 ## [1.2.1](https://github.com/alxUI/boilerplate-alx/compare/v1.2.0...v1.2.1) (2022-05-25)
 
 
