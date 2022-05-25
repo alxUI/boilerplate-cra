@@ -2,11 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "baseUrl": "src",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -21,9 +17,6 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-    "include": ["src"],
-    "files": [
-      "src/styles/styled.d.ts",
-      "src/@types/target.d.ts"
-    ]
+  "include": ["src"],
+  "files": ["src/styles/styled.d.ts", "src/@types/target.d.ts"]
 }
