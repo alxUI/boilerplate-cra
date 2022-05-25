@@ -1,3 +1,18 @@
+# [1.2.0](https://github.com/alxUI/boilerplate-alx/compare/v1.1.0...v1.2.0) (2022-05-25)
+
+
+### Bug Fixes
+
+* lint ([ca4d77b](https://github.com/alxUI/boilerplate-alx/commit/ca4d77b8cf9d9c3df3b1b3cc1b6341d97743c730))
+
+
+### Features
+
+* add config husky and commitlint ([358dc91](https://github.com/alxUI/boilerplate-alx/commit/358dc917865d638d8119e72e15fbab0876657364))
+* add config prettier ([08d48a6](https://github.com/alxUI/boilerplate-alx/commit/08d48a61b1380a752468a711988b2038fcd07bed))
+* add new scripts and husky, lint-staged and commitlint ([aaad3aa](https://github.com/alxUI/boilerplate-alx/commit/aaad3aab74e1b8773753aa4c1cacb1d884be715c))
+* add recomendations vscode ([65338ec](https://github.com/alxUI/boilerplate-alx/commit/65338ec8e3f5edef03c66076bf19b809e138639c))
+
 # [1.1.0](https://github.com/alxUI/boilerplate-alx/compare/v1.0.2...v1.1.0) (2022-05-24)
 
 
