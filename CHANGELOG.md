@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/alxUI/boilerplate-alx/compare/v1.2.0...v1.2.1) (2022-05-25)
+
+
+### Bug Fixes
+
+* favicon ([282c0c5](https://github.com/alxUI/boilerplate-alx/commit/282c0c5359a284848ef1624b689aafd0baef9973))
+
 # [1.2.0](https://github.com/alxUI/boilerplate-alx/compare/v1.1.0...v1.2.0) (2022-05-25)
 
 
