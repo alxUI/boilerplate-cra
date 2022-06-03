@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/alxUI/boilerplate-alx/compare/v1.4.0...v1.4.1) (2022-06-03)
+
+
+### Bug Fixes
+
+* deploy config ([b5b69d8](https://github.com/alxUI/boilerplate-alx/commit/b5b69d8f9f4a6e82b8b4a6226800c635659fe9ef))
+
 # [1.4.0](https://github.com/alxUI/boilerplate-alx/compare/v1.3.0...v1.4.0) (2022-05-25)
 
 
