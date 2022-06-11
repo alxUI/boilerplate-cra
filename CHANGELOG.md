@@ -1,3 +1,11 @@
+## [1.4.2](https://github.com/alxUI/boilerplate-alx/compare/v1.4.1...v1.4.2) (2022-06-11)
+
+
+### Bug Fixes
+
+* commitlint config max line ([3a7d787](https://github.com/alxUI/boilerplate-alx/commit/3a7d787d92765b4d9ed700648960aa92cb22ac2c))
+* husky config ([f055d36](https://github.com/alxUI/boilerplate-alx/commit/f055d36af00797913e674029b7067b7746c8f85a))
+
 ## [1.4.1](https://github.com/alxUI/boilerplate-alx/compare/v1.4.0...v1.4.1) (2022-06-03)
 
 
