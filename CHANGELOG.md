@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/alxUI/boilerplate-cra/compare/v1.4.2...v1.4.3) (2022-07-04)
+
+
+### Bug Fixes
+
+* update eslint config ([235b60b](https://github.com/alxUI/boilerplate-cra/commit/235b60badc0899a6a447fc6c8fd667a505fddfe0))
+
 ## [1.4.2](https://github.com/alxUI/boilerplate-alx/compare/v1.4.1...v1.4.2) (2022-06-11)
 
 
