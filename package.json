@@ -52,7 +52,7 @@
     ]
   },
   "devDependencies": {
-    "@alxui/eslint-config": "^1.0.3",
+    "@ialexanderbrito/eslint-config": "^1.0.3",
     "@commitlint/cli": "^17.0.1",
     "@commitlint/config-conventional": "^17.0.0",
     "@semantic-release/changelog": "^6.0.1",
